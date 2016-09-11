@@ -1,7 +1,7 @@
 <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
 	<div class="sidebar-module sidebar-module-inset">
 		<h4>About</h4>
-		<p>Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
+		<p>Full Stack Web Developer, world traveler, and millennial Deadhead.</p>
 	</div>
 	<div class="sidebar-module">
 		<h4>Archives</h4>
@@ -9,10 +9,11 @@
 		</ol>
 	</div>
 	<div class="sidebar-module">
-		<h4>Elsewhere</h4>
+		<h4>Other Sites!</h4>
 		<ol class="list-unstyled">
-			<li><a href="#">GitHub</a></li>
-			<li><a href="#">Twitter</a></li>
+      <li><a target="_blank" href="http://www.samlinehan.com">Personal Website</a></li>
+			<li><a target="_blank" href="http://www.github.com/SamLinehan">GitHub</a></li>
+      <li><a target="_blank" href="http://www.linkedin.com/in/samuellinehan">LinkedIn</a></li>
 		</ol>
 	</div>
 </div><!-- /.blog-sidebar -->

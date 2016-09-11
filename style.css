@@ -5,3 +5,54 @@ Description: First Wordpress Theme!
 Version: 0.0.1
 Tags: NA
 */
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.blog-header {
+  margin-top: 10px;
+  width: 300px;
+}
+
+.blog-header h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.blog-nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
+.blog-nav > * {
+  list-style-type: none;
+  color: black;
+}
+
+.blog-nav a:hover {
+  text-decoration: none;
+  opacity: 0.5;
+}
+
+.blog-nav a {
+  color: black;
+}
+
+form.woocommerce-ordering {
+  display: none;
+}
+
+ul.products {
+  list-style-type: none;
+}
+
+.products > * {
+  margin-bottom: 20px;
+}
